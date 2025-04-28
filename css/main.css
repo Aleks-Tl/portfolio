@@ -567,7 +567,7 @@ a[class] {
 }
 @media (max-width: 1440.98px) {
   .about__image svg {
-    width: 500px;
+    width: 550px;
     height: auto;
   }
 }
@@ -599,8 +599,8 @@ a[class] {
   }
 }
 .about .about-decorate-2 {
-  left: 100%;
-  top: 0;
+  left: 90%;
+  top: -10%;
 }
 @media (max-width: 991.98px) {
   .about .about-decorate-2 {
@@ -611,7 +611,7 @@ a[class] {
 }
 .about .about-decorate-3 {
   left: 30%;
-  top: 60%;
+  top: 75%;
 }
 @media (max-width: 1440.98px) {
   .about .about-decorate-3 {
